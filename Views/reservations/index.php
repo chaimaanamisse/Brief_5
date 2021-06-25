@@ -1,5 +1,5 @@
 
-<!-- <form method="post" action="ajouter.php" id="formulaire">
+<form method="post" action="ajouter.php" id="formulaire">
 
 <p>
     <fieldset id="fieldsetChambresNumber">
@@ -87,4 +87,4 @@
 
 </form>
 
- -->
+

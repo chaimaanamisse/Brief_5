@@ -171,7 +171,7 @@ class ReservationsController extends Controller
         }else{
             // L'utilisateur n'est pas connecté
             $_SESSION['erreur'] = "Vous devez être connecté(e) pour accéder à cette page";
-            header('Location: /users/login');
+            header('Location: ../users/login');
             exit;
         }
     }
